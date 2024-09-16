@@ -1,0 +1,15 @@
+[
+  {
+    "input": {
+      "language": "english",
+      "message": "word do describe someone that is extremely focus on achieving a goal"
+    },
+    "output": [
+      "determined",
+      "focused",
+      "driven",
+      "goal-oriented",
+      "single-minded"
+    ]
+  }
+]
